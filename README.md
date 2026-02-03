@@ -1,26 +1,17 @@
 # Task Manager Web App
 
-Task Manager Web App is a simple web application that allows users to create,
-update, and manage their daily tasks efficiently.
+A simple web application that helps users create and manage daily tasks.
 
 ## Features
 - User authentication
 - Create, edit, and delete tasks
-- Task status tracking (To Do, In Progress, Completed)
+- Task status tracking
 - Responsive web interface
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Node.js
-- Database: MongoDB
-
-## Installation
-1. Clone the repository
-2. Install dependencies
-3. Run the application locally
-
-## Usage
-Open the app in your browser and start managing your tasks.
+- HTML, CSS, JavaScript
+- Node.js
+- MongoDB
 
 ## License
 MIT License
